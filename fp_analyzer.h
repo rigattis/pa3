@@ -18,7 +18,6 @@
 #define BITS_PER_TYPE 32
 #endif
 
-#define BUFFER_SIZE 512
 #define SIGN_LENGTH 1
 
 struct Components{
